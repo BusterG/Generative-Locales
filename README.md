@@ -1,6 +1,6 @@
-# Stellar Soroban dApp – Hello Counter
+# Stellar Soroban dApp – Hello Counter - Generative Locales
 
-This project includes:
+Generative Locales includes:
 - A Soroban smart contract written in Rust
 - A simple React frontend
 - Example tests
